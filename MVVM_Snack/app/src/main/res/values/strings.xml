@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVVM_Snacker</string>
+    <string name="main_info">오늘의 간식 당번</string>
+    <string name="main_btn">돌리기</string>
+</resources>
